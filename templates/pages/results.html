@@ -1,0 +1,59 @@
+{% extends 'pages/base.html' %}
+
+
+{% block title %} Welcome {% endblock title %}
+
+
+{% block head %}
+{% endblock head %}
+
+
+{% block content %}
+    {% if not context['message'] %}
+    <div class="px-2 md:px-5 w-full">
+        <div class="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-6 gap-4 p-3 justify-items-center">
+            {% for user in context  %}
+                <div class="flex bg-slate-400 p-3 w-80 max-w-full rounded h-fit col-span-2 text-sm">  
+                    <img class="h-full max-h-24 w-1/4" src={{ user['avatar'] }} />
+                    <div class="text-sm pl-4">  
+                        <div class="flex items-center">
+                            <h1><span class="font-bold">User:</span> {{ user['username'] }}</h1>
+                            {% if user['logged_in_now'] %}
+                                <span class="ml-2 w-3 h-3 bg-green-500 rounded-full"></span>
+                            {% endif %}
+                        </div>
+
+                        {% if not user['logged_in_now'] %}
+                            <h1><span>Not logged in</span></h1>
+                        {% endif %}
+
+                        <ul><span class="font-bold">Likes:</span> 
+                            <span>{{ ', '.join(user['likes']) }} </span>          
+                        </ul>
+                        {% if user['buy_stuff']['buy'] %}
+                            <h1><span class="font-bold text-red-500">Please buy me... </span>{{ ', '.join(user['buy_stuff']['stuff']) }} </h1>
+                            <div class="pt-3 pb-2">
+                                <a 
+                                    href="#" 
+                                    class="m2 px-3 py-2 bg-green-500 rounded hover:bg-green-600">Buy</a>
+                                <a 
+                                    href="#"
+                                    class="m2 px-3 py-2 bg-red-100 rounded hover:bg-red-200">Ignore</a>
+                            </div>
+                            {% else %}
+                        <div>
+                            <h1><span class="">Still thinking... </span></h1>
+                        </div>
+                        {% endif %}
+
+
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+            
+    {% else %}
+        <h1>sorry, you lose</h1>
+    {% endif %}
+{% endblock content %}

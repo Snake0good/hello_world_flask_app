@@ -1,0 +1,69 @@
+{% extends 'pages/base.html' %}
+
+
+{% block title %} Welcome {% endblock title %}
+
+
+{% block head %}
+{% endblock head %}
+
+
+{% block content %}
+<!--
+  UI Design Prototype
+  Link : https://dribbble.com/shots/10452538-React-UI-Components
+-->
+<div class="bg-gray-100 min-h-full flex flex-col justify-center sm:py-12 z-0">
+    <div class="relative py-3 sm:max-w-xl sm:mx-auto">
+      <div class="relative py-5 px-4 md:py-10 bg-white mx-8 md:mx-0 shadow rounded-3xl ">
+        <form 
+          action="{{ url_for('search') }}"
+          method="POST"
+          class="max-w-md mx-auto">
+          <div class="flex items-center px-5">
+            <div class="hidden md:flex h-14 w-14 bg-yellow-200 rounded-full flex-shrink-0 justify-center items-center text-yellow-500 text-lg md:text-2xl font-mono">i</div>
+            <div class="block pl-2 font-semibold text-xl self-start text-gray-700">
+              <h2 class="leading-relaxed">Where are you Going?</h2>
+              <p class="text-sm text-gray-500 font-normal leading-relaxed">Just tell us where you are going, and we'll take care of the rest.</p>
+            </div>
+          </div>
+          <div class="divide-y divide-gray-200">
+            <div class="py-8 text-base leading-6 space-y-4 text-gray-700 sm:text-lg sm:leading-7">
+              <div class="flex flex-col space-y-1">
+                <label class="leading-loose">Destination</label>
+                <input 
+                  name="destination"
+                  type="text" 
+                  class="px-4 py-1 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-sm border-gray-300 rounded-md focus:outline-none text-gray-600" placeholder="Store"
+                  >
+                <input 
+                  name="city"
+                  type="text" 
+                  class="px-4 py-1 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-sm border-gray-300 rounded-md focus:outline-none text-gray-600" placeholder="City"
+                  >
+                <input 
+                  name="zip_code"
+                  type="text" 
+                  class="px-4 py-1 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-sm border-gray-300 rounded-md focus:outline-none text-gray-600" placeholder="Zip Code"
+                  >
+              </div>
+              <div class="flex flex-col">
+                <label class="leading-loose">What are you buying?</label>
+                <input 
+                  name="items_to_buy"
+                  type="text" 
+                  class="px-4 py-2 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-sm border-gray-300 rounded-md focus:outline-none text-gray-600" 
+                  placeholder="Optional- please separate by commas (,)">
+              </div>
+            </div>
+            <div class="pt-4 flex items-center space-x-4">
+                <button 
+                  type="submit"
+                  class="bg-blue-500 flex justify-center items-center w-full text-white px-4 py-3 rounded-md focus:outline-none">Go!</a>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+</div>
+{% endblock %}

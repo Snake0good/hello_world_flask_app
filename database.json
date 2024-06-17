@@ -1,0 +1,1958 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "username": "HILL001",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "bread",
+                "beer"
+            ],
+            "lat": 40.3291,
+            "long": -76.4685,
+            "last_login": "2024-06-24T05:47:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "apples",
+                    "water"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "username": "JERE002",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "water",
+                "bananas"
+            ],
+            "lat": 40.7276,
+            "long": -76.466,
+            "last_login": "2024-04-11T23:29:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beef",
+                    "cherries"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "username": "JACOB003",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "water",
+                "beer"
+            ],
+            "lat": 40.5672,
+            "long": -76.6803,
+            "last_login": "2024-09-15T22:49:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "potato chips"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "username": "ABCD004",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "apples",
+                "milk"
+            ],
+            "lat": 40.6575,
+            "long": -76.4013,
+            "last_login": "2024-04-28T16:50:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beer",
+                    "potato chips"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "username": "MARK005",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "beer",
+                "bread",
+                "water",
+                "bananas"
+            ],
+            "lat": 40.703,
+            "long": -76.6859,
+            "last_login": "2024-05-01T17:54:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bananas",
+                    "bread"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "username": "JOHN006",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "milk",
+                "water",
+                "apples",
+                "bread"
+            ],
+            "lat": 40.8358,
+            "long": -76.3053,
+            "last_login": "2024-06-04T13:40:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "cherries",
+                    "bread"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "username": "ANNA007",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "beer",
+                "milk",
+                "bread"
+            ],
+            "lat": 40.7364,
+            "long": -76.4715,
+            "last_login": "2024-10-09T22:02:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "cherries"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "username": "EMMA008",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "cherries",
+                "bread",
+                "milk",
+                "apples"
+            ],
+            "lat": 40.1843,
+            "long": -76.9212,
+            "last_login": "2024-08-29T16:23:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "apples",
+                    "cherries"
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "username": "OLIV009",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "bananas",
+                "water",
+                "apples"
+            ],
+            "lat": 40.2937,
+            "long": -76.0236,
+            "last_login": "2024-07-30T17:12:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "username": "RICH010",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "bananas",
+                "milk"
+            ],
+            "lat": 40.2362,
+            "long": -76.4063,
+            "last_login": "2024-02-29T06:40:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "soda"
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "username": "HILL011",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "water",
+                "bread",
+                "bananas"
+            ],
+            "lat": 40.5999,
+            "long": -76.3112,
+            "last_login": "2024-07-08T14:12:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beef"
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "username": "JERE012",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "apples",
+                "cherries",
+                "water"
+            ],
+            "lat": 40.566,
+            "long": -76.7646,
+            "last_login": "2024-12-30T03:05:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "username": "JACOB013",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "apples",
+                "bread",
+                "beer",
+                "bananas"
+            ],
+            "lat": 40.5526,
+            "long": -76.8276,
+            "last_login": "2024-08-14T23:31:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bananas",
+                    "cherries"
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "username": "ABCD014",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "beer",
+                "water",
+                "bread"
+            ],
+            "lat": 40.6122,
+            "long": -76.1097,
+            "last_login": "2024-06-11T02:03:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "apples",
+                    "milk"
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "username": "MARK015",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "bread",
+                "apples",
+                "cherries"
+            ],
+            "lat": 40.5229,
+            "long": -76.6445,
+            "last_login": "2024-08-11T20:27:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "milk",
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "username": "JOHN016",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "apples",
+                "water",
+                "bread",
+                "beer"
+            ],
+            "lat": 40.0501,
+            "long": -76.9071,
+            "last_login": "2024-08-16T04:09:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "beer"
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "username": "ANNA017",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "cherries",
+                "beer"
+            ],
+            "lat": 40.8538,
+            "long": -76.9717,
+            "last_login": "2024-06-17T16:28:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "milk",
+                    "bread"
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "username": "EMMA018",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "milk",
+                "cherries",
+                "bread"
+            ],
+            "lat": 40.4949,
+            "long": -76.6149,
+            "last_login": "2024-06-04T20:58:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "water"
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "username": "OLIV019",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "cherries",
+                "apples",
+                "bananas"
+            ],
+            "lat": 40.4282,
+            "long": -76.8692,
+            "last_login": "2024-06-22T09:42:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bananas",
+                    "apples"
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "username": "RICH020",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "water",
+                "apples",
+                "bread"
+            ],
+            "lat": 40.1956,
+            "long": -76.7152,
+            "last_login": "2024-03-19T18:29:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beer",
+                    "apples"
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "username": "HILL021",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "beer",
+                "water",
+                "cherries"
+            ],
+            "lat": 40.3419,
+            "long": -76.1272,
+            "last_login": "2024-03-28T01:25:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "apples",
+                    "milk"
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "username": "JERE022",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "bread",
+                "bananas"
+            ],
+            "lat": 40.4333,
+            "long": -76.9912,
+            "last_login": "2024-10-26T17:24:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "cherries"
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "username": "JACOB023",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "cherries",
+                "milk",
+                "beer"
+            ],
+            "lat": 40.1301,
+            "long": -76.3693,
+            "last_login": "2024-05-20T23:36:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "soda",
+                    "bananas"
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "username": "ABCD024",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "apples",
+                "milk"
+            ],
+            "lat": 40.7243,
+            "long": -76.1623,
+            "last_login": "2024-11-30T06:11:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "milk",
+                    "beef"
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "username": "MARK025",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "cherries",
+                "bread"
+            ],
+            "lat": 40.4018,
+            "long": -76.898,
+            "last_login": "2024-06-13T06:31:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "soda"
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "username": "JOHN026",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "bread",
+                "cherries"
+            ],
+            "lat": 40.4622,
+            "long": -76.503,
+            "last_login": "2024-08-02T04:18:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "cherries",
+                    "milk"
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "username": "ANNA027",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "milk",
+                "cherries",
+                "bananas",
+                "beer"
+            ],
+            "lat": 40.39,
+            "long": -76.4787,
+            "last_login": "2024-06-18T14:12:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "apples",
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "username": "EMMA028",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "bread",
+                "beer",
+                "apples",
+                "cherries"
+            ],
+            "lat": 40.9675,
+            "long": -76.9331,
+            "last_login": "2024-11-24T08:09:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "milk",
+                    "soda"
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "username": "OLIV029",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "beer",
+                "cherries"
+            ],
+            "lat": 40.4853,
+            "long": -76.1905,
+            "last_login": "2024-07-18T20:17:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "apples"
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "username": "RICH030",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "beer",
+                "milk",
+                "bread"
+            ],
+            "lat": 40.567,
+            "long": -76.1698,
+            "last_login": "2024-10-26T20:50:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "apples",
+                    "bread"
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "username": "HILL031",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "water",
+                "cherries",
+                "bread"
+            ],
+            "lat": 40.7026,
+            "long": -76.6103,
+            "last_login": "2024-07-31T14:03:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beef"
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "username": "JERE032",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "water",
+                "beer",
+                "cherries",
+                "apples"
+            ],
+            "lat": 40.2738,
+            "long": -76.9753,
+            "last_login": "2024-01-07T06:32:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "soda"
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "username": "JACOB033",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "apples",
+                "milk",
+                "water"
+            ],
+            "lat": 40.4768,
+            "long": -76.8798,
+            "last_login": "2024-02-01T14:50:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "milk"
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "username": "ABCD034",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "bananas",
+                "bread",
+                "water",
+                "cherries"
+            ],
+            "lat": 40.4536,
+            "long": -76.0127,
+            "last_login": "2024-01-11T07:31:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "soda"
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "username": "MARK035",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "bread",
+                "milk"
+            ],
+            "lat": 40.6526,
+            "long": -76.0325,
+            "last_login": "2024-07-31T14:09:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "cherries"
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "username": "JOHN036",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "water",
+                "milk",
+                "bananas"
+            ],
+            "lat": 40.0806,
+            "long": -76.4148,
+            "last_login": "2024-03-15T02:59:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "username": "ANNA037",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "bananas",
+                "bread",
+                "water",
+                "cherries"
+            ],
+            "lat": 40.8251,
+            "long": -76.787,
+            "last_login": "2024-03-30T07:44:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "apples"
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "username": "EMMA038",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "milk",
+                "beer"
+            ],
+            "lat": 40.6285,
+            "long": -76.4031,
+            "last_login": "2024-06-02T17:59:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "cherries",
+                    "beer"
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "username": "OLIV039",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "apples",
+                "water",
+                "cherries"
+            ],
+            "lat": 40.8669,
+            "long": -76.0342,
+            "last_login": "2024-10-31T01:02:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beer"
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "username": "RICH040",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "apples",
+                "bananas"
+            ],
+            "lat": 40.1948,
+            "long": -76.7002,
+            "last_login": "2024-01-30T20:36:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beer",
+                    "milk"
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "username": "HILL041",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "water",
+                "cherries",
+                "milk",
+                "beer"
+            ],
+            "lat": 40.6199,
+            "long": -76.9388,
+            "last_login": "2024-04-01T02:11:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "carrots",
+                    "bananas"
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "username": "JERE042",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "beer",
+                "milk",
+                "cherries",
+                "bananas"
+            ],
+            "lat": 40.975,
+            "long": -76.8561,
+            "last_login": "2024-07-27T05:51:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bread",
+                    "water"
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "username": "JACOB043",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "cherries",
+                "water"
+            ],
+            "lat": 40.3951,
+            "long": -76.0271,
+            "last_login": "2024-01-29T19:55:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bananas"
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "username": "ABCD044",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "bananas",
+                "apples",
+                "milk"
+            ],
+            "lat": 40.8732,
+            "long": -76.4252,
+            "last_login": "2024-09-10T20:22:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beer",
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "username": "MARK045",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "beer",
+                "cherries",
+                "water",
+                "bananas"
+            ],
+            "lat": 40.5355,
+            "long": -76.0837,
+            "last_login": "2024-05-14T05:55:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bananas",
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "username": "JOHN046",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "beer",
+                "water",
+                "apples",
+                "milk"
+            ],
+            "lat": 40.7807,
+            "long": -76.805,
+            "last_login": "2024-12-04T20:03:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "cherries",
+                    "beer"
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "username": "ANNA047",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "milk",
+                "apples"
+            ],
+            "lat": 40.9579,
+            "long": -76.8665,
+            "last_login": "2024-09-25T16:19:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "potato chips",
+                    "milk"
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "username": "EMMA048",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "milk",
+                "cherries"
+            ],
+            "lat": 40.2939,
+            "long": -76.9856,
+            "last_login": "2024-10-26T10:45:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beer",
+                    "soda"
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "username": "OLIV049",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "apples",
+                "water",
+                "beer",
+                "bread"
+            ],
+            "lat": 40.2538,
+            "long": -76.7819,
+            "last_login": "2024-09-21T12:06:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "carrots",
+                    "cherries"
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "username": "RICH050",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "bananas",
+                "milk",
+                "apples"
+            ],
+            "lat": 40.285,
+            "long": -76.3098,
+            "last_login": "2024-04-28T14:39:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beer"
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "username": "HILL051",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "water",
+                "beer",
+                "milk"
+            ],
+            "lat": 40.5259,
+            "long": -76.4631,
+            "last_login": "2024-01-04T14:30:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "potato chips"
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "username": "JERE052",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "water",
+                "beer",
+                "milk"
+            ],
+            "lat": 40.2027,
+            "long": -76.3758,
+            "last_login": "2024-05-13T19:49:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "soda",
+                    "beef"
+                ]
+            }
+        },
+        {
+            "id": 53,
+            "username": "JACOB053",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "water",
+                "milk"
+            ],
+            "lat": 40.514,
+            "long": -76.6903,
+            "last_login": "2024-12-23T17:53:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bread"
+                ]
+            }
+        },
+        {
+            "id": 54,
+            "username": "ABCD054",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "apples",
+                "bananas",
+                "cherries"
+            ],
+            "lat": 40.0885,
+            "long": -76.6984,
+            "last_login": "2024-02-26T08:51:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beef"
+                ]
+            }
+        },
+        {
+            "id": 55,
+            "username": "MARK055",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "apples",
+                "bananas",
+                "water",
+                "cherries"
+            ],
+            "lat": 40.9806,
+            "long": -76.985,
+            "last_login": "2024-12-06T19:16:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "cherries",
+                    "potato chips"
+                ]
+            }
+        },
+        {
+            "id": 56,
+            "username": "JOHN056",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "cherries",
+                "bananas",
+                "beer",
+                "milk"
+            ],
+            "lat": 40.812,
+            "long": -76.9974,
+            "last_login": "2024-12-30T21:51:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "water"
+                ]
+            }
+        },
+        {
+            "id": 57,
+            "username": "ANNA057",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "cherries",
+                "beer",
+                "milk"
+            ],
+            "lat": 40.7829,
+            "long": -76.6196,
+            "last_login": "2024-02-13T13:30:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 58,
+            "username": "EMMA058",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "water",
+                "bananas",
+                "beer"
+            ],
+            "lat": 40.9966,
+            "long": -76.9415,
+            "last_login": "2024-04-17T23:59:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "potato chips"
+                ]
+            }
+        },
+        {
+            "id": 59,
+            "username": "OLIV059",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "beer",
+                "bananas",
+                "water",
+                "cherries"
+            ],
+            "lat": 40.839,
+            "long": -76.5185,
+            "last_login": "2024-04-23T07:20:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "potato chips"
+                ]
+            }
+        },
+        {
+            "id": 60,
+            "username": "RICH060",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "bread",
+                "apples",
+                "cherries",
+                "water"
+            ],
+            "lat": 40.167,
+            "long": -76.8791,
+            "last_login": "2024-04-26T11:35:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bread"
+                ]
+            }
+        },
+        {
+            "id": 61,
+            "username": "HILL061",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "bread",
+                "bananas"
+            ],
+            "lat": 40.8057,
+            "long": -76.3113,
+            "last_login": "2024-08-11T18:59:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "soda"
+                ]
+            }
+        },
+        {
+            "id": 62,
+            "username": "JERE062",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "bananas",
+                "cherries",
+                "milk",
+                "beer"
+            ],
+            "lat": 40.9713,
+            "long": -76.0861,
+            "last_login": "2024-12-27T06:04:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bananas"
+                ]
+            }
+        },
+        {
+            "id": 63,
+            "username": "JACOB063",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "bananas",
+                "apples",
+                "water",
+                "milk"
+            ],
+            "lat": 40.5255,
+            "long": -76.4577,
+            "last_login": "2024-08-22T03:59:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bananas",
+                    "beef"
+                ]
+            }
+        },
+        {
+            "id": 64,
+            "username": "ABCD064",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "bananas",
+                "bread",
+                "milk",
+                "water"
+            ],
+            "lat": 40.578,
+            "long": -76.02,
+            "last_login": "2024-03-31T10:32:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 65,
+            "username": "MARK065",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "cherries",
+                "bananas",
+                "beer"
+            ],
+            "lat": 40.9628,
+            "long": -76.0242,
+            "last_login": "2024-02-14T00:08:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "bananas",
+                    "milk"
+                ]
+            }
+        },
+        {
+            "id": 66,
+            "username": "JOHN066",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "bread",
+                "water",
+                "beer",
+                "apples"
+            ],
+            "lat": 40.1766,
+            "long": -76.2113,
+            "last_login": "2024-04-04T11:41:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "apples"
+                ]
+            }
+        },
+        {
+            "id": 67,
+            "username": "ANNA067",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "water",
+                "bananas",
+                "milk",
+                "apples"
+            ],
+            "lat": 40.6968,
+            "long": -76.485,
+            "last_login": "2024-08-31T12:47:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "soda",
+                    "beef"
+                ]
+            }
+        },
+        {
+            "id": 68,
+            "username": "EMMA068",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "beer",
+                "cherries",
+                "bread"
+            ],
+            "lat": 40.9722,
+            "long": -76.8725,
+            "last_login": "2024-03-25T16:02:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "carrots",
+                    "beef"
+                ]
+            }
+        },
+        {
+            "id": 69,
+            "username": "OLIV069",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "bread",
+                "beer",
+                "milk",
+                "apples"
+            ],
+            "lat": 40.7847,
+            "long": -76.5137,
+            "last_login": "2024-11-17T15:07:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "water"
+                ]
+            }
+        },
+        {
+            "id": 70,
+            "username": "RICH070",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "bananas",
+                "bread",
+                "beer",
+                "milk"
+            ],
+            "lat": 40.7845,
+            "long": -76.5063,
+            "last_login": "2024-07-30T10:04:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "carrots",
+                    "bananas"
+                ]
+            }
+        },
+        {
+            "id": 71,
+            "username": "HILL071",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "water",
+                "bananas",
+                "cherries"
+            ],
+            "lat": 40.2235,
+            "long": -76.9257,
+            "last_login": "2024-09-22T13:22:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "potato chips"
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "username": "JERE072",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "bananas",
+                "apples"
+            ],
+            "lat": 40.7925,
+            "long": -76.9565,
+            "last_login": "2024-11-02T21:10:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "soda"
+                ]
+            }
+        },
+        {
+            "id": 73,
+            "username": "JACOB073",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "cherries",
+                "water",
+                "apples",
+                "beer"
+            ],
+            "lat": 40.1296,
+            "long": -76.8882,
+            "last_login": "2024-12-02T06:00:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "cherries",
+                    "potato chips"
+                ]
+            }
+        },
+        {
+            "id": 74,
+            "username": "ABCD074",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "beer",
+                "cherries"
+            ],
+            "lat": 40.8037,
+            "long": -76.4794,
+            "last_login": "2024-06-08T07:30:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "potato chips",
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 75,
+            "username": "MARK075",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "apples",
+                "water"
+            ],
+            "lat": 40.2507,
+            "long": -76.9851,
+            "last_login": "2024-02-06T20:31:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beef",
+                    "bananas"
+                ]
+            }
+        },
+        {
+            "id": 76,
+            "username": "JOHN076",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "milk",
+                "bananas",
+                "bread"
+            ],
+            "lat": 40.3422,
+            "long": -76.4016,
+            "last_login": "2024-04-18T21:00:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "bread"
+                ]
+            }
+        },
+        {
+            "id": 77,
+            "username": "ANNA077",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "apples",
+                "bananas",
+                "cherries"
+            ],
+            "lat": 40.8564,
+            "long": -76.8719,
+            "last_login": "2024-04-05T18:45:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "cherries"
+                ]
+            }
+        },
+        {
+            "id": 78,
+            "username": "EMMA078",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "bananas",
+                "cherries",
+                "milk"
+            ],
+            "lat": 40.0912,
+            "long": -76.8522,
+            "last_login": "2024-01-22T10:04:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "apples",
+                    "soda"
+                ]
+            }
+        },
+        {
+            "id": 79,
+            "username": "OLIV079",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "cherries",
+                "milk",
+                "bread"
+            ],
+            "lat": 40.7864,
+            "long": -76.4563,
+            "last_login": "2024-12-12T05:27:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "bananas"
+                ]
+            }
+        },
+        {
+            "id": 80,
+            "username": "RICH080",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "beer",
+                "cherries"
+            ],
+            "lat": 40.6414,
+            "long": -76.6438,
+            "last_login": "2024-08-07T04:22:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "milk",
+                    "water"
+                ]
+            }
+        },
+        {
+            "id": 81,
+            "username": "HILL081",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "bananas",
+                "water"
+            ],
+            "lat": 40.8638,
+            "long": -76.6824,
+            "last_login": "2024-12-21T15:57:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "carrots",
+                    "potato chips"
+                ]
+            }
+        },
+        {
+            "id": 82,
+            "username": "JERE082",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "water",
+                "cherries",
+                "bananas",
+                "beer"
+            ],
+            "lat": 40.901,
+            "long": -76.0881,
+            "last_login": "2024-07-04T14:18:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bananas",
+                    "beer"
+                ]
+            }
+        },
+        {
+            "id": 83,
+            "username": "JACOB083",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "bananas",
+                "water"
+            ],
+            "lat": 40.0472,
+            "long": -76.2513,
+            "last_login": "2024-04-20T01:16:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "soda",
+                    "water"
+                ]
+            }
+        },
+        {
+            "id": 84,
+            "username": "ABCD084",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "beer",
+                "apples"
+            ],
+            "lat": 40.8541,
+            "long": -76.6587,
+            "last_login": "2024-01-23T05:32:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "milk"
+                ]
+            }
+        },
+        {
+            "id": 85,
+            "username": "MARK085",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "beer",
+                "bananas",
+                "apples"
+            ],
+            "lat": 40.5589,
+            "long": -76.6254,
+            "last_login": "2024-12-19T21:58:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beer"
+                ]
+            }
+        },
+        {
+            "id": 86,
+            "username": "JOHN086",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "bananas",
+                "cherries"
+            ],
+            "lat": 40.9117,
+            "long": -76.8487,
+            "last_login": "2024-09-02T18:43:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bread",
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 87,
+            "username": "ANNA087",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "apples",
+                "bananas"
+            ],
+            "lat": 40.981,
+            "long": -76.9274,
+            "last_login": "2024-09-28T00:09:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bananas",
+                    "cherries"
+                ]
+            }
+        },
+        {
+            "id": 88,
+            "username": "EMMA088",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "cherries",
+                "bread"
+            ],
+            "lat": 40.3903,
+            "long": -76.4008,
+            "last_login": "2024-09-27T19:14:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "milk",
+                    "bananas"
+                ]
+            }
+        },
+        {
+            "id": 89,
+            "username": "OLIV089",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "beer",
+                "cherries",
+                "bread"
+            ],
+            "lat": 40.1752,
+            "long": -76.4702,
+            "last_login": "2024-09-21T17:17:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beer"
+                ]
+            }
+        },
+        {
+            "id": 90,
+            "username": "RICH090",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "cherries",
+                "water",
+                "milk",
+                "apples"
+            ],
+            "lat": 40.7394,
+            "long": -76.0806,
+            "last_login": "2024-04-13T07:17:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beer"
+                ]
+            }
+        },
+        {
+            "id": 91,
+            "username": "HILL091",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "milk",
+                "apples",
+                "bread"
+            ],
+            "lat": 40.6575,
+            "long": -76.0944,
+            "last_login": "2024-07-10T16:21:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "milk"
+                ]
+            }
+        },
+        {
+            "id": 92,
+            "username": "JERE092",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "water",
+                "beer",
+                "milk"
+            ],
+            "lat": 40.9022,
+            "long": -76.9714,
+            "last_login": "2024-09-17T19:35:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "bananas",
+                    "apples"
+                ]
+            }
+        },
+        {
+            "id": 93,
+            "username": "JACOB093",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "bread",
+                "cherries",
+                "milk",
+                "bananas"
+            ],
+            "lat": 40.6022,
+            "long": -76.0041,
+            "last_login": "2024-07-02T05:38:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "beef",
+                    "carrots"
+                ]
+            }
+        },
+        {
+            "id": 94,
+            "username": "ABCD094",
+            "avatar": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_640.png",
+            "likes": [
+                "bread",
+                "milk",
+                "apples",
+                "bananas"
+            ],
+            "lat": 40.9164,
+            "long": -76.6509,
+            "last_login": "2024-07-11T20:16:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "bananas"
+                ]
+            }
+        },
+        {
+            "id": 95,
+            "username": "MARK095",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "bananas",
+                "milk"
+            ],
+            "lat": 40.8952,
+            "long": -76.1352,
+            "last_login": "2024-12-17T08:44:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beer",
+                    "water"
+                ]
+            }
+        },
+        {
+            "id": 96,
+            "username": "JOHN096",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/24/female-296989_640.png",
+            "likes": [
+                "milk",
+                "cherries"
+            ],
+            "lat": 40.5441,
+            "long": -76.8019,
+            "last_login": "2024-06-13T17:49:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "water"
+                ]
+            }
+        },
+        {
+            "id": 97,
+            "username": "ANNA097",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "water",
+                "apples"
+            ],
+            "lat": 40.2471,
+            "long": -76.5154,
+            "last_login": "2024-01-13T00:24:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "soda",
+                    "beef"
+                ]
+            }
+        },
+        {
+            "id": 98,
+            "username": "EMMA098",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/10/32/user-310807_640.png",
+            "likes": [
+                "water",
+                "apples",
+                "cherries"
+            ],
+            "lat": 40.0896,
+            "long": -76.9597,
+            "last_login": "2024-05-28T15:54:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "water"
+                ]
+            }
+        },
+        {
+            "id": 99,
+            "username": "OLIV099",
+            "avatar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/avatar-312603_640.png",
+            "likes": [
+                "apples",
+                "milk",
+                "cherries",
+                "water"
+            ],
+            "lat": 40.2955,
+            "long": -76.5261,
+            "last_login": "2024-06-07T08:04:00",
+            "buy_stuff": {
+                "buy": true,
+                "stuff": [
+                    "water",
+                    "beer"
+                ]
+            }
+        },
+        {
+            "id": 100,
+            "username": "RICH100",
+            "avatar": "https://cdn.pixabay.com/photo/2014/03/25/16/32/user-297330_640.png",
+            "likes": [
+                "apples",
+                "beer",
+                "bread",
+                "cherries"
+            ],
+            "lat": 40.0077,
+            "long": -76.5841,
+            "last_login": "2024-08-16T04:30:00",
+            "buy_stuff": {
+                "buy": false,
+                "stuff": [
+                    "beef",
+                    "bananas"
+                ]
+            }
+        }
+    ]
+}

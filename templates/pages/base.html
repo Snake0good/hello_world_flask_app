@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" type="image/x-icon" href="https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_640.jpg">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+    {% block styles %}
+    {% endblock styles %}
+    <title>Going Anyway</title>
+  </head>
+  <body>
+    <nav id="navbar">
+      {% block navbar %}
+        {% include 'pages/navbar.html' %}
+      {% endblock navbar %}
+    </nav>
+                
+    <div id="content" class="pt-16 bg-red-50 h-screen">{% block content %}{% endblock content %}</div>
+            
+    {% block footer %}      
+    {% endblock footer %}
+  </body>
+</html>
